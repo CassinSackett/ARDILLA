@@ -1,0 +1,9 @@
+# Site settings
+title: ARDILLA Project
+author:
+  name: Loren Cassin Sackett
+  email: sackettl@colorado.edu
+description: "Project site for squirrel genomics alliance"
+
+# Build settings
+remote_theme: jekyll/minima
